@@ -2,7 +2,7 @@
 
 Assalamualikum wr wb
 
-Pak ini Tugas UAS saya apabila ada kekurangan dalam hal pengerjaan mohon dimaafkan
+Pak ini Tugas UAS saya apabila ada kekurangan dalam hal pengerjaan mohon dimaafkan.
 
 Nama : Nuraini Septiana
 
