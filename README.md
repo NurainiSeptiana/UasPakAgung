@@ -1,8 +1,9 @@
 # UasPakAgung
 
-Assalamualikum wr wb
+Assalamualaikum wr wb
 
-Pak ini Tugas UAS saya apabila ada kekurangan dalam hal pengerjaan mohon dimaafkan.
+Pak ini hasil tugas UAS yang telah saya kerjakan bedasarkan perintah yang bapak berikan, 
+untuk hasil ScreenShoot ada di folder pak semnua hasil ada disitu
 
 Nama : Nuraini Septiana
 
