@@ -23,6 +23,10 @@ Kerjakan
 1. Hasil Pekerjaan submit pada repository github masing-masing, sertakan screenshoot
 2. Publikasikan / Unggah pada Hosting
 
+Web Hosting
+
+http://nurportofolio.epizy.com/
+
 A. MockUp Crud Sederhana
 
 ![Aplikasi Crud](https://user-images.githubusercontent.com/46736283/87125102-c8bfdf00-c23e-11ea-8b41-93083b7305cb.jpg)
